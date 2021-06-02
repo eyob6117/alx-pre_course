@@ -1,4 +1,4 @@
-/*.cmake
-/*.DS_Store
+~*.cmake
+~*.DS_Store
 /.user
 /build
